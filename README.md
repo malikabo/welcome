@@ -1,0 +1,3 @@
+- Junior Student at Baruch College: currently studying computer information systems. 
+- Working on a solo project I plan on publishing on my Github profile. 
+- (It's a Trivia App) 💯 
